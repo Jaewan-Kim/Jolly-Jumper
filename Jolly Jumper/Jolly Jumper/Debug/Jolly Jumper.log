@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\jayj5\documents\github\jolly-jumper\jolly jumper\jolly jumper\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\jayj5\documents\github\jolly-jumper\jolly jumper\jolly jumper\source.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Jolly Jumper.vcxproj -> C:\Users\jayj5\Documents\GitHub\Jolly-Jumper\Jolly Jumper\Debug\Jolly Jumper.exe
+  Jolly Jumper.vcxproj -> C:\Users\jayj5\Documents\GitHub\Jolly-Jumper\Jolly Jumper\Debug\Jolly Jumper.pdb (Partial PDB)
